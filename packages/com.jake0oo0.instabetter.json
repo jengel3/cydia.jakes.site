@@ -1,0 +1,34 @@
+{
+	"name": "InstaBetter",
+	"package": "com.jake0oo0.instabetter",
+	"author": "Jake0oo0",
+	"version": "1.1.1",
+	"description": "The most comprehensive tweak for Instagram yet.",
+	"changelog": {
+		"1.0.0": [
+			"Initial Release"
+		],
+		"1.1.0": [
+			"Save DM Content",
+			"Fix Mute button issues",
+			"Add zooming to profiles & media",
+			"Like confirmations",
+			"Timestamps",
+			"Grid View",
+			"Minor bug fixes"
+		],
+		"1.1.1": [
+			"Fix bug with zooming on short captions"
+		]
+	},
+	"screenshots": {
+		"instabetter1.jpg": "",
+		"instabetter2.jpg": "",
+		"instabetter3.jpg": "",
+		"instabetter4.jpg": "",
+		"instabetter5.jpg": ""
+	},
+	"links": {
+		"<span class=\"glyphicon glyphicon-heart\"></span> Developer's Twitter": "https://twitter.com/itsjake88"
+	}
+}
