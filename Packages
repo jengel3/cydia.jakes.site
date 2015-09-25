@@ -10,7 +10,7 @@ Installed-Size: 1424
 MD5sum: 79115223b5f21678a63e5341492888e5
 Size: 1137960
 Filename: debs/com.jake0oo0.appster.deb
-Depiction: https://cydia.jakes.site/depictions/?p=com.jake0oo0.appster
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.appster
 
 Package: com.jake0oo0.instabetter
 Name: InstaBetter
@@ -27,7 +27,7 @@ Installed-Size: 700
 MD5sum: 76f019cb7c54eeaced1ae160b10dfeed
 Size: 213652
 Filename: debs/com.jake0oo0.instabetter.deb
-Depiction: https://cydia.jakes.site/depictions/?p=com.jake0oo0.instabetter
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instabetter
 
 Package: com.jake0oo0.instamute
 Name: InstaMute
@@ -42,7 +42,7 @@ Installed-Size: 192
 MD5sum: 08b8d645e3b8c191646e5e6a2153f154
 Size: 13692
 Filename: debs/com.jake0oo0.instamute.deb
-Depiction: https://cydia.jakes.site/depictions/?p=com.jake0oo0.instamute
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instamute
 
 Package: com.jake0oo0.noalertloop
 Name: NoAlertLoop
@@ -57,6 +57,6 @@ Installed-Size: 220
 MD5sum: 8411f4752a715024f153871b8f8edf9a
 Size: 30892
 Filename: debs/com.jake0oo0.noalertloop.deb
-Depiction: https://cydia.jakes.site/depictions/?p=com.jake0oo0.noalertloop
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.noalertloop
 
 
