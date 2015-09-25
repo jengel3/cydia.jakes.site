@@ -1,0 +1,24 @@
+{
+	"name": "Appster",
+	"package": "com.jake0oo0.appster",
+	"author": "Jake0oo0",
+	"version": "0.0.1",
+	"description": "Display important info and content from your phone",
+	"changelog": {
+		"0.0.1": [
+			"Initial Alpha Release",
+			"View & Export App Data",
+			"View & Export Tweak Data"
+		]
+	},
+	"screenshots": {
+		"appster1.png": "",
+		"appster2.png": "",
+		"appster3.png": "",
+		"appster4.png": "",
+		"appster5.png": ""
+	},
+	"links": {
+		"<span class=\"glyphicon glyphicon-heart\"></span> My Twitter": "https://twitter.com/itsjake88"
+	}
+}
