@@ -1,3 +1,18 @@
+Package: com.jake0oo0.appster
+Name: Appster
+Depends: 
+Architecture: iphoneos-arm
+Description: Get important info for installed apps and tweaks
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
+Section: Utilities
+Version: 0.0.1-99
+Installed-Size: 1424
+MD5sum: 49d5fe1a5eead6c4da0f6c101e0565bb
+Size: 1137974
+Filename: debs/com.jake0oo0.appster.deb
+Depiction: https://cydia.jakes.site/depictions/?p=com.jake0oo0.appster
+
 Package: com.jake0oo0.instabetter
 Name: InstaBetter
 Depends: firmware (>= 7.0)
