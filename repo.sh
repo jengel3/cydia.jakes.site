@@ -41,7 +41,7 @@ done
 
 echo "" >> Packages; ## Add extra new line
 
-bzip2 < Packages > Packages.bz2
+bzip2 -9c < Packages > Packages.bz2
 gzip -9c < Packages > Packages.gz
 
 git add -A
