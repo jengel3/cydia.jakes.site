@@ -45,4 +45,19 @@ Size: 18876
 Filename: debs/com.jake0oo0.instamute.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instamute
 
+Package: com.jake0oo0.noalertloop
+Name: NoAlertLoop
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Prevent websites from infinitely creating popups
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
+Section: Tweaks
+Version: 1.0.1-14
+Installed-Size: 196
+MD5sum: a4eadd0abbfef483dc47ce438d7d5998
+Size: 23036
+Filename: debs/com.jake0oo0.noalertloop.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.noalertloop
+
 
