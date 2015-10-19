@@ -30,4 +30,19 @@ Size: 191434
 Filename: debs/com.jake0oo0.instabetter.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instabetter
 
+Package: com.jake0oo0.instamute
+Name: InstaMute
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Mute Instagram Followers
+Maintainer: Jake0oo0 <jaek0oo0dev@gmail.com>
+Author: Jake0oo0 <jaek0oo0dev@gmail.com>
+Section: Tweaks
+Version: 1.0.3-1
+Installed-Size: 192
+MD5sum: a150a466d9d50259dcef9494d3a19044
+Size: 18876
+Filename: debs/com.jake0oo0.instamute.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instamute
+
 
