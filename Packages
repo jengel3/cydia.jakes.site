@@ -6,10 +6,10 @@ Description: Get important info for installed apps and tweaks
 Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
 Author: Jake0oo0 <jake0oo0dev@gmail.com>
 Section: Utilities
-Version: 0.0.2-1
+Version: 0.0.3-1
 Installed-Size: 4804
-MD5sum: 8d362dfbcf28eccf0e070b4bd7c342bf
-Size: 4535740
+MD5sum: a0594271b5e04e7d95e82e1284a39e7c
+Size: 4535998
 Filename: debs/com.jake0oo0.appster.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.appster
 
