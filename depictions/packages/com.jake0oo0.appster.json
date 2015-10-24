@@ -2,13 +2,22 @@
 	"name": "Appster",
 	"package": "com.jake0oo0.appster",
 	"author": "Jake0oo0",
-	"version": "0.0.1",
-	"description": "Display important info and content from your phone",
+	"version": "0.0.6",
+	"description": "View and export important data and info from your iDevice",
 	"changelog": {
 		"0.0.1": [
 			"Initial Alpha Release",
 			"View & Export App Data",
 			"View & Export Tweak Data"
+		],
+		"0.0.3": [
+			"Add support for new iOS 9 applications"
+		],
+		"0.0.4": [
+			"Retrieve iTunes metadata for applications"	
+		],
+		"0.0.6": [
+			"Add support for exporting sources with tweaks"
 		]
 	},
 	"screenshots": {
