@@ -3,7 +3,7 @@
 	"package": "com.jake0oo0.noalertloop",
 	"author": "Jake0oo0",
 	"version": "1.0.1",
-	"description": "Prevent malicious websites from creating an infinite amount of popups.",
+	"description": "Prevent malicious websites from creating an infinite amount of popups. Deprecated with iOS 9!",
 	"changelog": {
 		"1.0.0": [
 			"Initial Release"
