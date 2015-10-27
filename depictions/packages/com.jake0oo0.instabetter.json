@@ -2,7 +2,7 @@
 	"name": "InstaBetter",
 	"package": "com.jake0oo0.instabetter",
 	"author": "Jake0oo0",
-	"version": "1.3.2",
+	"version": "1.3.3-6",
 	"description": "The most comprehensive tweak for Instagram yet.",
 	"changelog": {
 		"1.0.0": [
@@ -56,7 +56,18 @@
 		],
 		"1.3.2": [
 			"Codebase cleanup",
-			"Make it possible to access native Instagram share sheet on own posts"
+			"Make it possible to access native Instagram share sheet on own posts",
+			"Change save and share buttons to activate on inside touch events",
+			"Redo settings as a popup to fix black screen on iOS 9",
+			"Add done button to web view",
+			"Potentially fix freezing on app start"
+		],
+		"1.3.3": [
+			"Fix 7.9 crash when zooming on profile pics",
+			"Fix 7.9 crash when using account switcher"
+		],
+		"1.3.3-6": [
+			"Possibly fix crash on 6(+) devices"
 		]
 
 	},
