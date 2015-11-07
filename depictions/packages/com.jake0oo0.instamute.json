@@ -2,7 +2,7 @@
 	"name": "InstaMute",
 	"package": "com.jake0oo0.instamute",
 	"author": "Jake0oo0",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"description": "Mute the more annoying users that you follow on Instagram from your main feed",
 	"changelog": {
 		"1.0.0": [
@@ -13,6 +13,9 @@
 		],
 		"1.0.3": [
 			"Resolve crash on latest Instagram versions"
+		],
+		"1.0.4": [
+			"iOS 9 Support"
 		]
 	},
 	"screenshots": {

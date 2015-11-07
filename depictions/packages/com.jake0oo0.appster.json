@@ -2,7 +2,7 @@
 	"name": "Appster",
 	"package": "com.jake0oo0.appster",
 	"author": "Jake0oo0",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"description": "View and export important data and info from your iDevice",
 	"changelog": {
 		"0.0.1": [
@@ -18,6 +18,9 @@
 		],
 		"0.0.6": [
 			"Add support for exporting sources with tweaks"
+		],
+		"0.0.7": [
+			"Major work on exporting messages - new view & export button"
 		]
 	},
 	"screenshots": {

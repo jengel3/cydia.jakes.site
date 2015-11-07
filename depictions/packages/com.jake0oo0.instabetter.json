@@ -2,7 +2,7 @@
 	"name": "InstaBetter",
 	"package": "com.jake0oo0.instabetter",
 	"author": "Jake0oo0",
-	"version": "1.3.3-6",
+	"version": "1.3.4",
 	"description": "The most comprehensive tweak for Instagram yet.",
 	"changelog": {
 		"1.0.0": [
@@ -68,6 +68,11 @@
 		],
 		"1.3.3-6": [
 			"Possibly fix crash on 6(+) devices"
+		],
+		"1.3.4": [
+			"Add Restart Instagram button to settings",
+			"Add custom notification sounds",
+			"Add option to disable like confirmation for save button"
 		]
 
 	},
