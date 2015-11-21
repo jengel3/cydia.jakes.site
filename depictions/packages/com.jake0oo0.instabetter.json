@@ -2,7 +2,7 @@
 	"name": "InstaBetter",
 	"package": "com.jake0oo0.instabetter",
 	"author": "Jake0oo0",
-	"version": "1.3.4",
+	"version": "1.3.6",
 	"description": "The most comprehensive tweak for Instagram yet.",
 	"changelog": {
 		"1.0.0": [
@@ -73,6 +73,19 @@
 			"Add Restart Instagram button to settings",
 			"Add custom notification sounds",
 			"Add option to disable like confirmation for save button"
+		],
+		"1.3.6": [
+			"Add done button to Instagram web view",
+			"Rewrite preference loading to reduce preference file size and hopefully resolve crashes",
+			"Add return key to captions and comments to create multiline posts and comments (use two blank lines between each)",
+			"Add localization support:",
+			"- Russian: Mik Ovchinnikov (Instagram only)",
+			"- Thai: @kn3w (Instagram only)",
+			"- Khmer: /u/fidele007 (not supported by iOS)",
+			"- Italian: Alessandro Grandi",
+			"- Arabic: @MiRO92 (not supported in Instagram..yet)",
+			"- Swedish: /u/andreashenriksson",
+			"- Hebrew: Aran Shavit (@Aranshavit)"
 		]
 
 	},
