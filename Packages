@@ -60,4 +60,19 @@ Size: 23036
 Filename: debs/com.jake0oo0.noalertloop.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.noalertloop
 
+Package: com.jake0oo0.overcast
+Name: Overcast
+Depends: 
+Architecture: iphoneos-arm
+Description: App for Overcast Network forums
+Maintainer: Jake0oo0
+Author: Jake0oo0
+Section: Applications
+Version: 0.0.1-94
+Installed-Size: 824
+MD5sum: 3e008e49eb50b813c86bcfc4a5268c91
+Size: 263878
+Filename: debs/com.jake0oo0.overcast.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.overcast
+
 
