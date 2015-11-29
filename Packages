@@ -60,18 +60,18 @@ Size: 23036
 Filename: debs/com.jake0oo0.noalertloop.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.noalertloop
 
-Package: com.jake0oo0.overcast
-Name: Overcast
+Package: com.sunshine-api.sunshine-client
+Name: Sunshine
 Architecture: iphoneos-arm
-Description: App for Overcast Network forums
-Maintainer: Jake0oo0
-Author: Jake0oo0
+Description: iOS App for the Overcast Network forums based on the Sunshine Web API
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
 Section: Applications
-Version: 0.0.1-95
-Installed-Size: 824
-MD5sum: e585e5fce48872a9e9adcedbf13a3310
-Size: 263868
-Filename: debs/com.jake0oo0.overcast.deb
-Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.overcast
+Version: 0.1.0-23
+Installed-Size: 928
+MD5sum: f5f37d779b3ea8ccf4a1f13e5cb38fc1
+Size: 270758
+Filename: debs/com.sunshine-api.sunshine-client.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.sunshine-api.sunshine-client
 
 
