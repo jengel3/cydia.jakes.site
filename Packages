@@ -3,14 +3,14 @@ Name: Appster
 Depends: firmware (>= 8.0), mobilesubstrate, applist
 Architecture: iphoneos-arm
 Description: View and export info and content from your iDevice
-Depiction: https://cydia.jakes.site/depictions/?p=com.jake0oo0.appster
+Homepage: https://cydia.jakes.site/depictions/?p=com.jake0oo0.appster
 Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
 Author: Jake0oo0 <jake0oo0dev@gmail.com>
 Section: Utilities
-Version: 0.0.8-33
-Installed-Size: 6196
-MD5sum: 70ed6d421a8320725702cc3893437acd
-Size: 5661004
+Version: 1.0.0-30
+Installed-Size: 7992
+MD5sum: 01ebb4af1065fe65f5d70fdbfb8c675d
+Size: 7187440
 Filename: debs/com.jake0oo0.appster.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.appster
 
