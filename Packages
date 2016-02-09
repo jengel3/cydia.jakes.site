@@ -17,16 +17,17 @@ Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.appster
 Package: com.jake0oo0.instabetter
 Name: InstaBetter
 Depends: firmware (>= 7.0)
+Conflicts: com.jake0oo0.instamute
 Architecture: iphoneos-arm
 Description: The most comprehensive Instagram tweak yet
 Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
 Author: Jake0oo0 <jake0oo0dev@gmail.com>
 Section: Tweaks
 Icon: /Library/PreferenceBundles/InstaBetterPrefs.bundle/InstaBetter@3x.png
-Version: 1.4.4-5
-Installed-Size: 896
-MD5sum: 6960ba19cce0d0d89f434399908704c8
-Size: 244608
+Version: 1.4.7-12
+Installed-Size: 928
+MD5sum: 0e8d97f10569f44c293d5206a517acd5
+Size: 252766
 Filename: debs/com.jake0oo0.instabetter.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instabetter
 
