@@ -61,6 +61,21 @@ Size: 23036
 Filename: debs/com.jake0oo0.noalertloop.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.noalertloop
 
+Package: com.jake0oo0.oneup
+Name: OneUp
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Play a Mario OneUp Sound for every n notifications
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
+Section: Tweaks
+Version: 1.0.0-1
+Installed-Size: 504
+MD5sum: 8b77c35ddcaf6cb4cbb9c2b06dc1c6f2
+Size: 195348
+Filename: debs/com.jake0oo0.oneup.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.oneup
+
 Package: com.sunshine-api.sunshine-client
 Name: Sunshine
 Architecture: iphoneos-arm
