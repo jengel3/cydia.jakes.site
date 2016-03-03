@@ -76,6 +76,23 @@ Size: 195348
 Filename: debs/com.jake0oo0.oneup.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.oneup
 
+Package: com.jake0oo0.instabetter
+Name: InstaBetter
+Depends: firmware (>= 7.0)
+Conflicts: com.jake0oo0.instamute
+Architecture: iphoneos-arm
+Description: The most comprehensive Instagram tweak yet
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
+Section: Tweaks
+Icon: /Library/PreferenceBundles/InstaBetterPrefs.bundle/InstaBetter@3x.png
+Version: 1.5.3-4
+Installed-Size: 928
+MD5sum: d496cf652551e9cfc4183b9c49859721
+Size: 257782
+Filename: debs/com.jake0ooo0.instabetter.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instabetter
+
 Package: com.sunshine-api.sunshine-client
 Name: Sunshine
 Architecture: iphoneos-arm
