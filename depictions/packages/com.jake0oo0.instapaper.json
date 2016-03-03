@@ -1,0 +1,19 @@
+{
+	"name": "InstaPaper",
+	"package": "com.jake0oo0.instapaper",
+	"author": "Jake0oo0",
+	"version": "1.0.0",
+	"description": "Set wallpapers from an Instagram feed",
+	"changelog": {
+		"1.0.0": [
+			"Initial Release"
+		]	
+	},
+	"screenshots": {
+		"instapaper1.png": "",
+		"instapaper2.png": ""
+	},
+	"links": {
+		"<span class=\"glyphicon glyphicon-heart\"></span> Developer's Twitter": "https://twitter.com/itsjake88"
+	}
+}
