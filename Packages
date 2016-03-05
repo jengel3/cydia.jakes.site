@@ -34,15 +34,16 @@ Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instabetter
 Package: com.jake0oo0.instamute
 Name: InstaMute
 Depends: mobilesubstrate
+Conflicts: com.jake0oo0.instabetter
 Architecture: iphoneos-arm
-Description: Mute Instagram Followers
-Maintainer: Jake0oo0 <jaek0oo0dev@gmail.com>
-Author: Jake0oo0 <jaek0oo0dev@gmail.com>
+Description: Mute users from your Instagram feed
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
 Section: Tweaks
-Version: 1.0.3-1
+Version: 1.1.0-1
 Installed-Size: 192
-MD5sum: a150a466d9d50259dcef9494d3a19044
-Size: 18876
+MD5sum: e3a350dedab3d580b5ba3e3c7b3c2f80
+Size: 23316
 Filename: debs/com.jake0oo0.instamute.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instamute
 
