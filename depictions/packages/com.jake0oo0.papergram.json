@@ -1,6 +1,6 @@
 {
-	"name": "InstaPaper",
-	"package": "com.jake0oo0.instapaper",
+	"name": "PaperGram",
+	"package": "com.jake0oo0.papergram",
 	"author": "Jake0oo0",
 	"version": "1.0.0",
 	"description": "Set wallpapers from an Instagram feed",
@@ -10,8 +10,8 @@
 		]	
 	},
 	"screenshots": {
-		"instapaper1.png": "",
-		"instapaper2.png": ""
+		"papergram1.png": "",
+		"papergram2.png": ""
 	},
 	"links": {
 		"<span class=\"glyphicon glyphicon-heart\"></span> Developer's Twitter": "https://twitter.com/itsjake88"
