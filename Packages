@@ -31,6 +31,22 @@ Size: 301010
 Filename: debs/com.jake0oo0.instabetter.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instabetter
 
+Package: com.jake0oo0.instadebug
+Name: instadebug
+Depends: mobilesubstrate
+Conflicts: com.jake0oo0.instabetter
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 120
+MD5sum: 1da6786c35098143f0230c9d1452bdf0
+Size: 6100
+Filename: debs/com.jake0oo0.instadebug.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instadebug
+
 Package: com.jake0oo0.instamute
 Name: InstaMute
 Depends: mobilesubstrate
