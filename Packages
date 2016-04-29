@@ -40,10 +40,10 @@ Description: An awesome MobileSubstrate tweak!
 Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
 Author: Jake0oo0 <jake0oo0dev@gmail.com>
 Section: Tweaks
-Version: 0.0.1-2+debug
+Version: 0.0.1-6+debug
 Installed-Size: 120
-MD5sum: 1da6786c35098143f0230c9d1452bdf0
-Size: 6100
+MD5sum: 1ff2bd318449cf2c46ddd30ec9b30fe6
+Size: 6092
 Filename: debs/com.jake0oo0.instadebug.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instadebug
 
