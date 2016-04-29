@@ -24,10 +24,10 @@ Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
 Author: Jake0oo0 <jake0oo0dev@gmail.com>
 Section: Tweaks
 Icon: /Library/PreferenceBundles/InstaBetterPrefs.bundle/InstaBetter@3x.png
-Version: 1.6.1-57+debug
-Installed-Size: 1656
-MD5sum: 009bcb1f5c92c6786242573a8461546a
-Size: 300320
+Version: 1.6.2
+Installed-Size: 1008
+MD5sum: 20a057139dfa5fbb9621c4cf536571b1
+Size: 214906
 Filename: debs/com.jake0oo0.instabetter.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instabetter
 
