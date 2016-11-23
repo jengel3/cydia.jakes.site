@@ -24,10 +24,10 @@ Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
 Author: Jake0oo0 <jake0oo0dev@gmail.com>
 Section: Tweaks
 Icon: /Library/PreferenceBundles/InstaBetterPrefs.bundle/InstaBetter@3x.png
-Version: 1.7.2-16+debug
-Installed-Size: 1928
-MD5sum: eb1f929738ec5b92ba82983f4c25e602
-Size: 336836
+Version: 1.7.4-dev-1+debug
+Installed-Size: 1760
+MD5sum: 62bf1c1adb32ac9d3cd699b8a5b8a65a
+Size: 306698
 Filename: debs/com.jake0oo0.instabetter.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instabetter
 
@@ -108,23 +108,6 @@ MD5sum: 9c625b727dba92407d97ba82a4696875
 Size: 208866
 Filename: debs/com.jake0oo0.papergram.deb
 Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.papergram
-
-Package: com.jake0oo0.instabetter
-Name: InstaBetter
-Depends: firmware (>= 7.0)
-Conflicts: com.jake0oo0.instamute
-Architecture: iphoneos-arm
-Description: The most comprehensive Instagram tweak yet
-Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
-Author: Jake0oo0 <jake0oo0dev@gmail.com>
-Section: Tweaks
-Icon: /Library/PreferenceBundles/InstaBetterPrefs.bundle/InstaBetter@3x.png
-Version: 1.5.3-4
-Installed-Size: 928
-MD5sum: d496cf652551e9cfc4183b9c49859721
-Size: 257782
-Filename: debs/com.jake0ooo0.instabetter.deb
-Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instabetter
 
 Package: com.sunshine-api.sunshine-client
 Name: Sunshine
